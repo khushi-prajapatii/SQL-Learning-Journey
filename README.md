@@ -2,7 +2,7 @@
 
 Welcome to my SQL learning repository.
 
-This repository documents my journey of learning SQL using PostgreSQL. It contains daily practice exercises, notes, and hands-on queries covering fundamental to advanced SQL concepts.
+This repository documents my journey of learning SQL using PostgreSQL through hands-on practice. It contains SQL queries and exercises covering different SQL concepts as I progress in my learning.
 
 ## Goals
 
