@@ -3,6 +3,7 @@
 ## Topics Practiced
 
 * SELECT
+* DISTINCT
 * WHERE
 * AND
 * OR
