@@ -28,3 +28,14 @@ select c_name from sales where city='Mumbai' AND price<=10000;
 select * from sales where city='Pune' or product='Laptop' 
 order by city DESC
 limit 3;
+
+/*Practice questions 
+Q1 Show all orders from Delhi.
+Q2 Show all Laptop orders.
+Q3 Find the highest price.*/
+
+select * from sales where city='Delhi';
+
+select * from sales where product='Laptop';
+
+select product, price from sales order by price desc limit 1;
