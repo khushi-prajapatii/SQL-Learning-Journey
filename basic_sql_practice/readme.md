@@ -23,6 +23,11 @@ The queries were written based on business-style questions such as:
 - Retrieve a limited number of records
 - Filter data using multiple conditions
 
+## Preview
+
+![table](table.png)
+
+
 ## Skills Practiced
 
 - Data retrieval
