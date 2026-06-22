@@ -2,8 +2,6 @@
 
 ## Overview
 
-This project is part of my SQL learning journey.
-
 In this exercise, I practiced different SQL String Functions using an Employee dataset in PostgreSQL.
 
 ## Dataset
