@@ -25,8 +25,7 @@ The queries were written based on business-style questions such as:
 
 ## Table Preview
 
-
-(table.png)
+![table](table.png)
 
 
 ## Skills Practiced
