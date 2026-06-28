@@ -34,7 +34,7 @@ Columns included:
 
 The dataset contains 20 sample food delivery orders.
 ## Dataset
-![table](table.png)
+![dataset](dataset.png)
 
 ## Practice Scenarios
 
