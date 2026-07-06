@@ -1,2 +1,7 @@
-*.sql linguist-vendored=false
-*.sql linguist-detectable=true
+# Force GitHub to look inside all folders and count SQL files
+**/*.sql linguist-vendored=false
+**/*.sql linguist-detectable=true
+
+# Ignore markdown and image files from the language stats
+**/*.md linguist-documentation=true
+**/*.png linguist-documentation=true
