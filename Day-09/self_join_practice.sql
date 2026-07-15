@@ -60,7 +60,7 @@ select e.employee_name, m.employee_name as manager
 from employees e
 join employees m
 on e.manager_id=m.employee_id
-where m.employee_name like 'R%' ; --i have never learn about this
+where m.employee_name like 'R%' ; 
 
 select  e.employee_name,e.department,
 m.employee_name as manager,m.department as MD
